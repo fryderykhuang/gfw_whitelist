@@ -94,6 +94,7 @@
 ||aday01.com
 ||adf.ly
 ||aicheren.com
+||aigame100.com
 ||aipai.com
 ||aiwebcom.com
 ||aixifan.com
@@ -128,6 +129,7 @@
 ||baiducontent.com
 ||baidupcs.com
 ||baidustatic.com
+||baiyou100.com
 ||bankcomm.com
 ||baozoumanhua.com
 ||basechem.org
@@ -374,6 +376,7 @@
 ||kf5.com
 ||kmf.com
 ||knownsec.com
+||krcom.cn
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
@@ -525,6 +528,7 @@
 ||rom.cn
 ||rom.mk
 ||rongcloud.cn
+||roogames.com
 ||rsc.org
 ||ruanyifeng.com
 ||ruby-china.org
@@ -648,6 +652,7 @@
 ||wanmei.com
 ||wanplus.com
 ||webofknowledge.com
+||wegame.com
 ||weibo.com
 ||weidunewtab.com
 ||weiosx.com
