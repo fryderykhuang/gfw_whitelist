@@ -444,6 +444,7 @@
 ||mukewang.com
 ||mumayi.com
 ||mydrivers.com
+||myqcloud.com
 
 ! N
 ||nature.com
@@ -521,6 +522,7 @@
 ! R
 ||renren.com
 ||researchgate.net
+||rhhz.net
 ||right.com.cn
 ||rkecloud.com
 ||rkidc.net
