@@ -1,5 +1,5 @@
 ! Regex
-/.+\.com\.cn/
+/.+cn/
 /.+ac.cn/
 /.+acs.cn/
 /.+edu.cn/
@@ -25,6 +25,7 @@
 ||10086.cn
 ||114la.com
 ||115.com
+||12306.cn
 ||126.com
 ||126.net
 ||127.net
@@ -64,6 +65,7 @@
 ||51.la
 ||51cto.com
 ||51job.com
+||51jobcdn.com
 ||52pojie.cn
 ||56.com
 ||58.com
@@ -212,6 +214,7 @@
 ||dandanplay.com
 ||daocloud.io
 ||datagrand.com
+||ddooo.com
 ||ddos.cc
 ||deepin.com
 ||deepin.org
@@ -372,6 +375,7 @@
 ||kan300.com
 ||kancloud.cn
 ||kankan.com
+||kanzhun.com
 ||kekenet.com
 ||kf5.com
 ||kmf.com
@@ -544,6 +548,7 @@
 ||sciencedirect.com
 ||sciencemag.org
 ||sciencenet.cn
+||scopus.com
 ||scorecardresearch.com
 ||sdo.com
 ||seele.tech
@@ -603,6 +608,7 @@
 ||thomsonreuters.com
 ||tianxun.com
 ||tianya.cn
+||tianyancha.com
 ||tietuku.com
 ||tigerlust.com
 ||tingyun.com
@@ -695,6 +701,7 @@
 ||yecdn.com
 ||yesky.com
 ||yiche.com
+||yihengchina.com
 ||yinxiang.com
 ||ykimg.com
 ||ylmf.net
@@ -715,6 +722,7 @@
 ||zhangyao.name
 ||zhanqi.tv
 ||zhaojin97.cn
+||zhaopin.cn
 ||zhaopin.com
 ||zhibo.at
 ||zhihu.com
