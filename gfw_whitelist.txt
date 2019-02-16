@@ -85,6 +85,7 @@
 
 ! 9
 ||91.com
+||95579.com
 
 ! A
 ||abchina.com
@@ -98,6 +99,7 @@
 ||aicheren.com
 ||aigame100.com
 ||aipai.com
+||airitilibrary.com
 ||aiwebcom.com
 ||aixifan.com
 ||aizhan.com
@@ -109,11 +111,13 @@
 ||alimama.com
 ||alipay.com
 ||alipayobjects.com
+||alipcsec.com
 ||alisports.com
 ||aliyun.com
 ||aliyuncs.com
 ||amap.com
 ||amazon.cn
+||anhuiland.com
 ||anjuke.com
 ||anquan.org
 ||anzhi.com
@@ -144,7 +148,7 @@
 ||bilibili.com
 ||biligame.com
 ||biligame.net
-||bing.com
+@@||bing.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
@@ -188,8 +192,11 @@
 ||cn.engadget.com
 ||cnbeta.com
 ||cnblogs.com
+||cncsgo.com
 ||cnki.net
+||cnpereading.com
 ||cnr.cn
+||cnstock.com
 ||cntv.cn
 ||cnzz.com
 ||cnzz.net
@@ -211,6 +218,7 @@
 
 ! D
 ||d7vg.com
+||dajie.com
 ||dandanplay.com
 ||daocloud.io
 ||datagrand.com
@@ -257,10 +265,12 @@
 
 ! F
 ||fang.com
+||fasebj.org
 ||feng.com
 ||fengkongcloud.com
 ||fengniao.com
 ||fir.im
+||fliggy.com
 ||flow.ci
 ||freebuf.com
 
@@ -276,11 +286,15 @@
 ||getui.com
 ||gfan.com
 ||gitee.com
+||gllue.com
 ||gmw.cn
 ||golaravel.com
+||greenment.net
 ||gtimg.cn
+||gtimg.com
 ||guancha.cn
 ||guokr.com
+||gxeduw.com
 
 ! H
 ||h-ui.net
@@ -343,6 +357,7 @@
 ||iqing.in
 ||iqiyi.com
 ||iqiyipic.com
+||irs01.com
 ||it168.com
 ||itc.cn
 ||itellyou.cn
@@ -370,6 +385,7 @@
 ||jomodns.com
 ||joyyang.com
 ||jstor.org
+||juneyaoair.com
 
 ! K
 ||kafan.cn
@@ -378,6 +394,7 @@
 ||kankan.com
 ||kanzhun.com
 ||kekenet.com
+||keppellandchina.com
 ||kf5.com
 ||kmf.com
 ||knownsec.com
@@ -417,12 +434,14 @@
 ||lyjsws.com
 
 ! M
+||mathworks.cn
 ||mail4geek.com
 ||maoyan.com
 ||masadora.net
 ||materializecss.cn
 ||maxfox.me
 ||mcbbs.net
+||mdpi.com
 ||mdui.org
 ||mediav.com
 ||meiqia.com
@@ -430,6 +449,7 @@
 ||meituan.net
 ||meizu.com
 ||mengniang.org
+||merckmillipore.com
 ||mi.com
 ||miaopai.com
 ||mikanani.me
@@ -450,9 +470,11 @@
 ||mumayi.com
 ||mydrivers.com
 ||myqcloud.com
+||mzstatic.com
 
 ! N
 ||nature.com
+||nejm.org
 ||nekonazo.com
 ||netease.com
 ||netease.im
@@ -495,6 +517,7 @@
 ||pnas.org
 ||pptv.com
 ||psnine.com
+||putongwater.com
 ||pythonclub.org
 
 ! Q
@@ -534,6 +557,7 @@
 ||rlcdn.com
 ||rom.cn
 ||rom.mk
+||romjd.com
 ||rongcloud.cn
 ||roogames.com
 ||rsc.org
@@ -542,6 +566,7 @@
 ||runoob.com
 
 ! S
+||sagepub.com
 ||sandai.net
 ||sarm.net
 ||sb.sb
@@ -557,6 +582,7 @@
 ||sensorsdata.cn
 ||sf-express.com
 ||shanbay.com
+||shanghaiwater.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
@@ -572,6 +598,7 @@
 ||smart2pay.com
 ||smartgslb.com
 ||smartisan.com
+||smtcdns.com
 ||smzdm.com
 ||so.com
 ||sogou.com
@@ -579,6 +606,7 @@
 ||sohu.com
 ||sohucs.com
 ||soku.com
+||somecoding.com
 ||songshuhui.net
 ||soso.com
 ||soufun.com
@@ -594,19 +622,23 @@
 
 ! T
 ||t.tt
+||tandfonline.com
 ||tanx.com
 ||tansoole.com
 ||taobao.com
 ||taobaocdn.com
+||taylorfrancis.com
 ||tbcdn.cn
 ||tencent.com
 ||tencentmind.com
 ||tenpay.com
 ||tenxcloud.com
 ||tgbus.com
+||thape.com
 ||thepaper.cn
 ||thinkphp.cn
 ||thomsonreuters.com
+||tianhuagp.com
 ||tianxun.com
 ||tianya.cn
 ||tianyancha.com
@@ -623,6 +655,7 @@
 ||tplogin.cn
 ||truevue.org
 ||ttt.tt
+||ttvnw.net
 ||tudou.com
 ||tuicool.com
 ||tuna.moe
@@ -647,6 +680,8 @@
 ||videojj.com
 ||viosey.com
 ||vip.com
+||virmach.com
+||vliz.be
 ||vmall.com
 ||vpgame.com
 ||vpgcdn.com
@@ -660,6 +695,7 @@
 ||wandoujia.com
 ||wanmei.com
 ||wanplus.com
+||wdfncl.com
 ||webofknowledge.com
 ||wegame.com
 ||weibo.com
@@ -674,6 +710,7 @@
 ||wolcavi.com
 ||wondercv.com
 ||woyoo.com
+||wrating.com
 
 ! X
 ||xcar.com.cn
@@ -730,8 +767,10 @@
 ||zhihu.com
 ||zhimg.com
 ||zhiziyun.com
+||zhugeio.com
 ||zhujike.com
 ||zimuzu.io
+||zmz001.com
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
