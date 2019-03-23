@@ -137,6 +137,7 @@
 ||baidustatic.com
 ||baiyou100.com
 ||bankcomm.com
+||bankofchina.com
 ||baozoumanhua.com
 ||basechem.org
 ||battlenet.com.cn
@@ -265,6 +266,7 @@
 
 ! F
 ||fang.com
+||fao.org
 ||fasebj.org
 ||feng.com
 ||fengkongcloud.com
@@ -483,6 +485,7 @@
 ||nga.cn
 ||ngacn.cc
 ||njjcbio.com
+||nrcresearchpress.com
 ||nuomi.com
 ||nutrition.org
 ||nvidia.cn
