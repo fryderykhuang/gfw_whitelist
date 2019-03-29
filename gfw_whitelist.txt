@@ -1,5 +1,5 @@
 ! Regex
-/.+cn/
+/.+.cn/
 /.+ac.cn/
 /.+acs.cn/
 /.+edu.cn/
@@ -170,6 +170,7 @@
 ||cas.cn
 ||cctv.com
 ||cdn.jsdelivr.net
+||cdn-apple.com
 ||cdnbee.com
 ||cdndm.com
 ||cdndm5.com
@@ -259,6 +260,7 @@
 ||elemecdn.com
 ||els-cdn.com
 ||elsevier.com
+||elsevier.io
 ||enkj.com
 ||eqoe.cn
 ||etao.com
@@ -314,6 +316,7 @@
 ||hitokoto.cn
 ||hiwifi.com
 ||hjenglish.com
+||hltv.org
 ||hostker.com
 ||huaban.com
 ||huanmusic.com
@@ -339,6 +342,7 @@
 ||iaweg.com
 ||ibruce.info
 ||iciba.com
+||icourse163.org
 ||ieee.org
 ||ifanr.com
 ||ifanr.in
@@ -575,6 +579,7 @@
 ||sb.sb
 ||scichina.com
 ||sciencedirect.com
+||sciencedirectassets.com
 ||sciencemag.org
 ||sciencenet.cn
 ||scopus.com
