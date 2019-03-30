@@ -149,7 +149,6 @@
 ||bilibili.com
 ||biligame.com
 ||biligame.net
-@@||bing.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
