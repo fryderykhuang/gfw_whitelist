@@ -230,6 +230,7 @@
 ||deepin.org
 ||dianping.com
 ||dict.cn
+||digdota.com
 ||dilidili.com
 ||dilidili.wang
 ||dingtalk.com
@@ -247,6 +248,7 @@
 ||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
+||dullr.com
 ||duoshuo.com
 ||duowan.com
 ||dwstatic.com
@@ -297,6 +299,7 @@
 ||gtimg.cn
 ||gtimg.com
 ||guancha.cn
+||guiji365.com
 ||guokr.com
 ||gxeduw.com
 
@@ -559,6 +562,7 @@
 ||researchgate.net
 ||rhhz.net
 ||right.com.cn
+||rijutv.com
 ||rkecloud.com
 ||rkidc.net
 ||rlcdn.com
