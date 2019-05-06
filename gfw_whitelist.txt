@@ -322,6 +322,7 @@
 ||hjenglish.com
 ||hltv.org
 ||hostker.com
+||hrol.org
 ||huaban.com
 ||huanmusic.com
 ||huanqiu.com
@@ -505,6 +506,7 @@
 ||oneplus.cn
 ||oneplusbbs.com
 ||open-open.com
+||openrepository.com
 ||ops.moe
 ||oray.com
 ||oschina.io
