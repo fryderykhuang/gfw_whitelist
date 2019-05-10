@@ -183,6 +183,7 @@
 ||ch.com
 ||changba.com
 ||china.com
+||chinanetcenter.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
