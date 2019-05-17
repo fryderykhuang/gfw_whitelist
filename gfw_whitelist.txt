@@ -224,6 +224,7 @@
 ! D
 ||d7vg.com
 ||dajie.com
+||danaherconnect.com
 ||dandanplay.com
 ||daocloud.io
 ||datagrand.com
@@ -311,6 +312,7 @@
 ||h2os.com
 ||hacpai.com
 ||halyul.cc
+||hanspub.org
 ||hao123.com
 ||hdslb.com
 ||hdslb.net
@@ -322,7 +324,6 @@
 ||hitokoto.cn
 ||hiwifi.com
 ||hjenglish.com
-||hltv.org
 ||hostker.com
 ||hrol.org
 ||huaban.com
