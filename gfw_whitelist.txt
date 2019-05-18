@@ -1,5 +1,5 @@
 ! Regex
-/.+cn/
+/.+.cn/
 /.+com.cn/
 /.+net.cn/
 /.+ac.cn/
@@ -87,6 +87,7 @@
 
 ! 9
 ||91.com
+||95516.com
 ||95579.com
 ||97973.com
 
@@ -601,6 +602,7 @@
 ||sf-express.com
 ||shanbay.com
 ||shanghaiwater.com
+||sharepointonline.com
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
