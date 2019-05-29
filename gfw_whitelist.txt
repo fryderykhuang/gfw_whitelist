@@ -96,8 +96,11 @@
 ||acfun.tv
 ||acg.tv
 ||acgvideo.com
+||acs.org
 ||aday01.com
+||addthis.com
 ||adf.ly
+||adobedtm.com
 ||aicheren.com
 ||aigame100.com
 ||aipai.com
@@ -105,7 +108,6 @@
 ||aiwebcom.com
 ||aixifan.com
 ||aizhan.com
-||akamaihd.net
 ||akarin.me
 ||akarin.top
 ||alibaba.com
@@ -119,6 +121,7 @@
 ||aliyuncs.com
 ||amap.com
 ||amazon.cn
+||ametsoc.org
 ||anhuiland.com
 ||anjuke.com
 ||anquan.org
@@ -151,6 +154,7 @@
 ||bilibili.com
 ||biligame.com
 ||biligame.net
+||biliplus.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
@@ -270,6 +274,7 @@
 ||eqoe.cn
 ||etao.com
 ||eudic.net
+||everesttech.net
 
 ! F
 ||fang.com
@@ -423,6 +428,7 @@
 ||lany.me
 ||lanyus.com
 ||laravel-china.org
+||lascn.net
 ||lbesec.com
 ||le.com
 ||leancloud.cn
@@ -741,6 +747,7 @@
 ||ximalaya.com
 ||xinhuanet.com
 ||xitu.io
+||xiuren.com
 ||xldns.net
 ||xs8.cn
 ||xuanfengge.com
