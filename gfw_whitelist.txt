@@ -93,7 +93,6 @@
 
 ! A
 ||abchina.com
-||acfun.cn
 ||acfun.tv
 ||acg.tv
 ||acgvideo.com
@@ -121,7 +120,6 @@
 ||aliyun.com
 ||aliyuncs.com
 ||amap.com
-||amazon.cn
 ||ametsoc.org
 ||anhuiland.com
 ||anjuke.com
@@ -288,6 +286,7 @@
 ||fliggy.com
 ||flow.ci
 ||freebuf.com
+||freenom.com
 
 ! G
 ||gamersky.com
@@ -325,6 +324,7 @@
 ||heweather.com
 ||hexun.com
 ||hexunimg.com
+||hiido.com
 ||hikvision.com
 ||hitokoto.cn
 ||hiwifi.com
@@ -484,6 +484,7 @@
 ||mokeedev.com
 ||momentcdn.com
 ||msftconnecttest.com
+||msstatic.com
 ||mtyun.com
 ||muchong.com
 ||mukewang.com
@@ -518,8 +519,10 @@
 ||openrepository.com
 ||ops.moe
 ||oray.com
+||originlab.com
 ||oschina.io
 ||oschina.net
+||oup.com
 ||ourdvsss.com
 ||overwatchleague.cn
 
@@ -593,6 +596,7 @@
 ||sandai.net
 ||sarm.net
 ||sb.sb
+||sci-hub.tw
 ||scichina.com
 ||sciencedirect.com
 ||sciencedirectassets.com
@@ -619,6 +623,7 @@
 ||sinaimg.cn
 ||sinajs.cn
 ||since1989.org
+||sinoreagent.com
 ||sm.ms
 ||smart2pay.com
 ||smartgslb.com
@@ -721,6 +726,7 @@
 ||wanmei.com
 ||wanplus.com
 ||wdfncl.com
+||webkaka.com
 ||webofknowledge.com
 ||wegame.com
 ||weibo.com
