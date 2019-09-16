@@ -109,6 +109,7 @@
 ||aizhan.com
 ||akarin.me
 ||akarin.top
+||aladdin-e.com
 ||alibaba.com
 ||alicdn.com
 ||alimama.com
@@ -127,6 +128,7 @@
 ||appgame.com
 ||appinn.com
 ||aps.org
+||arctime.org
 ||areyoucereal.com
 ||arubanetworks.com
 ||atomicstryker.net
@@ -149,6 +151,7 @@
 ||behe.com
 ||beianbeian.com
 ||biaozhuns.com
+||bidchance.com
 ||bilibili.com
 ||biligame.com
 ||biligame.net
@@ -192,6 +195,7 @@
 ||chiphell.com
 ||chsi.com.cn
 ||chuangzaoshi.com
+||cibntv.net
 ||cli.im
 ||cloudinary.com
 ||cloudxns.net
@@ -233,6 +237,7 @@
 ||ddos.cc
 ||deepin.com
 ||deepin.org
+||dell.com
 ||dianping.com
 ||dict.cn
 ||digdota.com
@@ -250,6 +255,7 @@
 ||doubleclick.net
 ||douyu.com
 ||douyucdn.cn
+||dowater.com
 ||doyoo.net
 ||duanwenxue.com
 ||duguletian.com
@@ -270,6 +276,7 @@
 ||elsevier.io
 ||enkj.com
 ||eqoe.cn
+||esensing.net
 ||etao.com
 ||eudic.net
 ||everesttech.net
@@ -321,6 +328,7 @@
 ||hdslb.net
 ||hejie.me
 ||heweather.com
+||hexonet.com
 ||hexun.com
 ||hexunimg.com
 ||hiido.com
@@ -334,6 +342,7 @@
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
+||huazhu.com
 ||huomao.com
 ||huomaotv.cn
 ||huiji.wiki
@@ -419,6 +428,7 @@
 ||krcom.cn
 ||krspace.cn
 ||ksyun.com
+||ksyungslb.com
 ||ku6.com
 ||kuaidi100.com
 ||kuaizhan.com
@@ -437,6 +447,7 @@
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
+||lg.com
 ||liaoxuefeng.com
 ||linuxidc.com
 ||liyin.date
@@ -462,6 +473,7 @@
 ||mcbbs.net
 ||mdpi.com
 ||mdui.org
+||mechrevo.com
 ||mediav.com
 ||meiqia.com
 ||meituan.com
@@ -488,6 +500,7 @@
 ||muchong.com
 ||mukewang.com
 ||mumayi.com
+||myapp.com
 ||mydrivers.com
 ||myqcloud.com
 ||mzstatic.com
@@ -511,6 +524,7 @@
 ! O
 ||obsapp.com
 ||oekaki.so
+||office.com
 ||omico.me
 ||oneplus.cn
 ||oneplusbbs.com
@@ -530,6 +544,7 @@
 ||panda.tv
 ||pangu.io
 ||pcbeta.com
+||pcgeshi.com
 ||pdcicons.ml
 ||pdim.gs
 ||pengyou.com
@@ -554,6 +569,7 @@
 ||qhimg.com
 ||qhmsg.com
 ||qhres.com
+||qianlima.com
 ||qidian.com
 ||qihucdn.com
 ||qingmang.me
@@ -585,6 +601,7 @@
 ||romjd.com
 ||rongcloud.cn
 ||roogames.com
+||rrysapp.com
 ||rsc.org
 ||ruanyifeng.com
 ||ruby-china.org
@@ -665,16 +682,19 @@
 ||tgbus.com
 ||thape.com
 ||thepaper.cn
+||thinkpad.com
 ||thinkphp.cn
 ||thomsonreuters.com
 ||tianhuagp.com
 ||tianxun.com
 ||tianya.cn
 ||tianyancha.com
+||tieba.com
 ||tietuku.com
 ||tigerlust.com
 ||tingyun.com
 ||tmall.com
+||tongfangpc.com
 ||tool.lu
 ||totolink.cn
 ||toushibao.com
@@ -750,6 +770,7 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaomi.com
+||xiepp.com
 ||ximalaya.com
 ||xinhuanet.com
 ||xitu.io
