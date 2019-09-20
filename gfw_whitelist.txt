@@ -1,5 +1,5 @@
 ! Regex
-/.+\.com\.cn$/
+/.+\.com+\.cn$/
 /.+\.cn$/
 /.+ac.cn/
 /.+acs.cn/
