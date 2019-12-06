@@ -150,6 +150,7 @@
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||bendibao.com
 ||biaozhuns.com
 ||bidchance.com
 ||bilibili.com
@@ -264,6 +265,7 @@
 ||duowan.com
 ||dwstatic.com
 ||dxy.cn
+||dxy.com
 ||dxycdn.com
 ||dygod.net
 
@@ -301,6 +303,7 @@
 ||gaokao.com
 ||gbw-china.com
 ||gbw365.com
+||geekpark.net
 ||geetest.com
 ||getfedora.org
 ||getui.com
@@ -324,6 +327,7 @@
 ||halyul.cc
 ||hanspub.org
 ||hao123.com
+||haodf.com
 ||hdslb.com
 ||hdslb.net
 ||hejie.me
@@ -466,6 +470,7 @@
 ! M
 ||mathworks.cn
 ||mail4geek.com
+||mairuan.com
 ||maoyan.com
 ||masadora.net
 ||materializecss.cn
@@ -552,6 +557,7 @@
 ||phpcomposer.com
 ||pingwest.com
 ||playubuntu.cn
+||plos.org
 ||plu.cn
 ||pnas.org
 ||pptv.com
@@ -644,7 +650,9 @@
 ||smart2pay.com
 ||smartgslb.com
 ||smartisan.com
+||smedi.com
 ||smtcdns.com
+||smtcdns.net
 ||smzdm.com
 ||so.com
 ||sogou.com
@@ -668,6 +676,7 @@
 
 ! T
 ||t.tt
+||t2score.com
 ||tandfonline.com
 ||tanx.com
 ||tansoole.com
@@ -675,6 +684,7 @@
 ||taobaocdn.com
 ||taylorfrancis.com
 ||tbcdn.cn
+||tecsir.com
 ||tencent.com
 ||tencentmind.com
 ||tenpay.com
@@ -769,6 +779,7 @@
 ||xf9168.com
 ||xiachufang.com
 ||xiami.com
+||xiaohongshu.com
 ||xiaomi.com
 ||xiepp.com
 ||ximalaya.com
