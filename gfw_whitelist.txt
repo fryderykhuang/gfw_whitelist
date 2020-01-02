@@ -273,6 +273,7 @@
 ||eastmoney.com
 ||eeboard.com
 ||elemecdn.com
+||ele.me
 ||els-cdn.com
 ||elsevier.com
 ||elsevier.io
@@ -530,6 +531,7 @@
 ||obsapp.com
 ||oekaki.so
 ||office.com
+||officezhushou.com
 ||omico.me
 ||oneplus.cn
 ||oneplusbbs.com
@@ -665,6 +667,7 @@
 ||soso.com
 ||soufun.com
 ||speedtest.net
+||springairlines.com
 ||springer.com
 ||springerlink.com
 ||sspai.com
