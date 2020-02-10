@@ -1,9 +1,9 @@
 ! Regex
 ! /.+com.cn/
-/.+*^\.cn$/
+/.+*^.+\.cn$/
 ! /.+ac.cn/
 ! /.+acs.cn/
-/.+edu.cn/
+! /.+edu.cn/
 ! /.+gov.cn/
 ! /.+net.cn/
 /113\.55\.\d+\.\d+/
