@@ -1,6 +1,6 @@
 ! Regex
 ! /.+com.cn/
-/.+*^.+\.cn$/
+/*^\.cn$/
 ! /.+ac.cn/
 ! /.+acs.cn/
 ! /.+edu.cn/
@@ -153,10 +153,12 @@
 ||bendibao.com
 ||biaozhuns.com
 ||bidchance.com
+||biliapi.net
 ||bilibili.com
 ||biligame.com
 ||biligame.net
 ||biliplus.com
+||bilivideo.com
 ||blackyau.cc
 ||blizzard.cn
 ||blizzardgames.cn
@@ -384,6 +386,7 @@
 ||imququ.com
 ||installbi.me
 ||ip-api.com
+||ip138.com
 ||ipip.net
 ||iplaysoft.com
 ||iqing.in
