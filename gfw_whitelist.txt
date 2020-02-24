@@ -194,6 +194,7 @@
 ||chinanetcenter.com
 ||chinassl.net
 ||chinaunix.net
+||chinaxiv.org
 ||chinaz.com
 ||chiphell.com
 ||chsi.com.cn
@@ -786,6 +787,7 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaohongshu.com
+||xiaoka.tv
 ||xiaomi.com
 ||xiepp.com
 ||ximalaya.com
