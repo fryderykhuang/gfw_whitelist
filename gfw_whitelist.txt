@@ -1,6 +1,6 @@
 ! Regex
 ! /.+com.cn/
-/.+(?:\.cn)/
+/.+\.cn\b/
 ! /.+ac.cn/
 ! /.+acs.cn/
 ! /.+edu.cn/
