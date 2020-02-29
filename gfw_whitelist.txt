@@ -673,7 +673,7 @@
 ||soso.com
 ||soufun.com
 ||springairlines.com
-||springer.com
+! ||springer.com
 ! ||springerlink.com
 ||sspai.com
 ||stargame.com
