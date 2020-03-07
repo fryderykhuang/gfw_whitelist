@@ -19,6 +19,7 @@
 |https://www.hao123.com
 
 ! 0
+||00cdn.com
 ||0o0.ooo
 
 ! 1
@@ -78,6 +79,7 @@
 ||6.cn
 
 ! 7
+||71edge.com
 ||7k7k.com
 ||7to.cn
 
@@ -192,6 +194,7 @@
 ||changba.com
 ||china.com
 ||chinanetcenter.com
+||chinanews.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaxiv.org
