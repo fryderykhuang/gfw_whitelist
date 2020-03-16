@@ -678,8 +678,8 @@
 ||soso.com
 ||soufun.com
 ||springairlines.com
-! ||springer.com
-! ||springerlink.com
+||springer.com
+||springerlink.com
 ||sspai.com
 ||stargame.com
 ||steamcn.com
@@ -769,7 +769,7 @@
 ||wanplus.com
 ||wdfncl.com
 ||webkaka.com
-! ||webofknowledge.com
+||webofknowledge.com
 ||wegame.com
 ||weibo.com
 ||weidunewtab.com
