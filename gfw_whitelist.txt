@@ -71,6 +71,7 @@
 ||52pojie.cn
 ||56.com
 ||58.com
+||58-jz.com
 ||58pic.com
 ||5eplay.com
 ||5ewin.com
@@ -238,6 +239,7 @@
 ||dajie.com
 ||danaherconnect.com
 ||dandanplay.com
+||dangbei.com
 ||daocloud.io
 ||datagrand.com
 ||ddooo.com
@@ -421,6 +423,7 @@
 ||jikexueyuan.com
 ||jinshuju.net
 ||jisuanke.com
+||jobui.com
 ||jomodns.com
 ||joyyang.com
 ||jstor.org
@@ -629,7 +632,6 @@
 ||sandai.net
 ||sarm.net
 ||sb.sb
-||sci-hub.tw
 ||scichina.com
 ||sciencedirect.com
 ||sciencedirectassets.com
@@ -850,3 +852,4 @@
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
+||zuozizhi.com
