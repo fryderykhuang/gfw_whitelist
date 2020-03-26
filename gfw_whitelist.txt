@@ -1,11 +1,5 @@
 ! Regex
-! /.+com.cn/
 /.+\.(cn\b)/
-! /.+ac.cn/
-! /.+acs.cn/
-! /.+edu.cn/
-! /.+gov.cn/
-! /.+net.cn/
 /113\.55\.\d+\.\d+/
 /120\.77\.\d+\.\d+/
 /183\.60\.187\.110/
@@ -24,10 +18,8 @@
 
 ! 1
 ||10010.com
-||10086.cn
 ||114la.com
 ||115.com
-||12306.cn
 ||126.com
 ||126.net
 ||127.net
@@ -37,7 +29,6 @@
 ||178.com
 ||17ce.com
 ||17k.com
-||189.cn
 ||1qimg.com
 ||1qmsg.com
 ||1tpic.com
@@ -52,7 +43,6 @@
 ! 3
 ||3366.com
 ||33ss.tech
-||360.cn
 ||360.com
 ||360buy.com
 ||360buyimg.com
@@ -62,14 +52,12 @@
 
 ! 4
 ||4399.com
-||4008-517-517.cn
 
 ! 5
 ||51.la
 ||51cto.com
 ||51job.com
 ||51jobcdn.com
-||52pojie.cn
 ||56.com
 ||58.com
 ||58-jz.com
@@ -78,12 +66,10 @@
 ||5ewin.com
 
 ! 6
-||6.cn
 
 ! 7
 ||71edge.com
 ||7k7k.com
-||7to.cn
 
 ! 8
 ||86ps.com
@@ -137,7 +123,6 @@
 ||arubanetworks.com
 ||atomicstryker.net
 ||augix.me
-||autohome.com.cn
 
 ! B
 ||baidu.com
@@ -149,7 +134,6 @@
 ||bankofchina.com
 ||baozoumanhua.com
 ||basechem.org
-||battlenet.com.cn
 ||bdimg.com
 ||bdstatic.com
 ||behe.com
@@ -164,23 +148,17 @@
 ||biliplus.com
 ||bilivideo.com
 ||blackyau.cc
-||blizzard.cn
-||blizzardgames.cn
 ||blogjava.net
-||boc.cn
 ||bookfere.com
-||bootcdn.cn
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
 ||bumimi.com
-||buu.edu.cn
 ||bybbs.org
 
 ! C
 ||cachemoment.com
 ||caixin.com
-||cas.cn
 ||cctv.com
 ||cdn.jsdelivr.net
 ||cdn-apple.com
@@ -189,7 +167,6 @@
 ||cdndm5.com
 ||cdnst.net
 ||cdog.me
-||ce.cn
 ||ceair.com
 ||cee.network
 ||ceping.com
@@ -203,7 +180,6 @@
 ||chinaxiv.org
 ||chinaz.com
 ||chiphell.com
-||chsi.com.cn
 ||chuangzaoshi.com
 ||cibntv.net
 ||cli.im
@@ -215,12 +191,9 @@
 ||cncsgo.com
 ||cnki.net
 ||cnpereading.com
-||cnr.cn
 ||cnstock.com
-||cntv.cn
 ||cnzz.com
 ||cnzz.net
-||coderstory.cn
 ||coding.io
 ||coding.me
 ||coding.net
@@ -230,7 +203,6 @@
 ||csair.com
 ||cscec.com
 ||csdn.net
-||csdnimg.cn
 ||css.net
 ||css.network
 ||ct10000.com
@@ -251,7 +223,6 @@
 ||deepin.org
 ||dell.com
 ||dianping.com
-||dict.cn
 ||digdota.com
 ||dilidili.com
 ||dilidili.wang
@@ -260,14 +231,12 @@
 ||diyvm.com
 ||dm5.com
 ||dmzj.com
-||dnspod.cn
 ||docin.com
 ||douban.com
 ||douban.fm
 ||doubanio.com
 ||doubleclick.net
 ||douyu.com
-||douyucdn.cn
 ||dowater.com
 ||doyoo.net
 ||duanwenxue.com
@@ -276,7 +245,6 @@
 ||duoshuo.com
 ||duowan.com
 ||dwstatic.com
-||dxy.cn
 ||dxy.com
 ||dxycdn.com
 ||dygod.net
@@ -290,7 +258,6 @@
 ||elsevier.com
 ||elsevier.io
 ||enkj.com
-||eqoe.cn
 ||esensing.net
 ||etao.com
 ||eudic.net
@@ -323,12 +290,9 @@
 ||gfan.com
 ||gitee.com
 ||gllue.com
-||gmw.cn
 ||golaravel.com
 ||greenment.net
-||gtimg.cn
 ||gtimg.com
-||guancha.cn
 ||guiji365.com
 ||guokr.com
 ||gxeduw.com
@@ -350,7 +314,6 @@
 ||hexunimg.com
 ||hiido.com
 ||hikvision.com
-||hitokoto.cn
 ||hiwifi.com
 ||hjenglish.com
 ||hostker.com
@@ -361,7 +324,6 @@
 ||huawei.com
 ||huazhu.com
 ||huomao.com
-||huomaotv.cn
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
@@ -375,7 +337,6 @@
 
 ! I
 ||i-meto.com
-||i21st.cn
 ||iapps.im
 ||iaweg.com
 ||ibruce.info
@@ -391,7 +352,6 @@
 ||iknoworld.net
 ||im9.com
 ||imiku.me
-||imjad.cn
 ||imooc.com
 ||imququ.com
 ||installbi.me
@@ -404,13 +364,10 @@
 ||iqiyipic.com
 ||irs01.com
 ||it168.com
-||itc.cn
-||itellyou.cn
 ||iteye.com
 ||ithome.com
 
 ! J
-||j.cn
 ||jandan.net
 ||javaeye.com
 ||jb51.net
@@ -434,9 +391,7 @@
 ||juneyaoair.com
 
 ! K
-||kafan.cn
 ||kan300.com
-||kancloud.cn
 ||kankan.com
 ||kanzhun.com
 ||kekenet.com
@@ -444,8 +399,6 @@
 ||kf5.com
 ||kmf.com
 ||knownsec.com
-||krcom.cn
-||krspace.cn
 ||ksyun.com
 ||ksyungslb.com
 ||ku6.com
@@ -460,9 +413,6 @@
 ||lascn.net
 ||lbesec.com
 ||le.com
-||leancloud.cn
-||lenovo.com.cn
-||lenovomobile.cn
 ||lenovomobile.com
 ||letv.com
 ||letvimg.com
@@ -477,18 +427,15 @@
 ||lolinet.com
 ||longzhu.com
 ||lucifr.com
-||luojuly.cn
 ||luoo.net
 ||lwl12.com
 ||lyjsws.com
 
 ! M
-||mathworks.cn
 ||mail4geek.com
 ||mairuan.com
 ||maoyan.com
 ||masadora.net
-||materializecss.cn
 ||maxfox.me
 ||mbalib.com
 ||mcbbs.net
@@ -534,13 +481,11 @@
 ||netease.im
 ||netseer.com
 ||newsmth.net
-||nga.cn
 ||ngacn.cc
 ||njjcbio.com
 ||nrcresearchpress.com
 ||nuomi.com
 ||nutrition.org
-||nvidia.cn
 
 ! O
 ||obsapp.com
@@ -548,7 +493,6 @@
 ||office.com
 ||officezhushou.com
 ||omico.me
-||oneplus.cn
 ||oneplusbbs.com
 ||open-open.com
 ||openrepository.com
@@ -561,7 +505,6 @@
 ||oschina.net
 ||oup.com
 ||ourdvsss.com
-||overwatchleague.cn
 
 ! P
 ||paipai.com
@@ -576,9 +519,7 @@
 ||phpcomposer.com
 ||pincn.com
 ||pingwest.com
-||playubuntu.cn
 ||plos.org
-||plu.cn
 ||pnas.org
 ||pptv.com
 ||psnine.com
@@ -605,9 +546,7 @@
 ||qiyi.com
 ||qiyipic.com
 ||qiyukf.com
-||qlogo.cn
 ||qnssl.com
-||qpic.cn
 ||qq.com
 ||qqmail.com
 ||qqzzz.net
@@ -617,15 +556,12 @@
 ||renren.com
 ||researchgate.net
 ||rhhz.net
-||right.com.cn
 ||rijutv.com
 ||rkecloud.com
 ||rkidc.net
 ||rlcdn.com
-||rom.cn
 ||rom.mk
 ||romjd.com
-||rongcloud.cn
 ||roogames.com
 ||rrysapp.com
 ||rsc.org
@@ -642,13 +578,11 @@
 ||sciencedirect.com
 ||sciencedirectassets.com
 ||sciencemag.org
-||sciencenet.cn
 ||scopus.com
 ||scorecardresearch.com
 ||sdo.com
 ||seele.tech
 ||segmentfault.com
-||sensorsdata.cn
 ||sf-express.com
 ||shanbay.com
 ||shanghaiwater.com
@@ -658,12 +592,8 @@
 ||shimo.im
 ||shiyanlou.com
 ||sigmaaldrich.com
-||sina.cn
 ||sina.com
-||sina.com.cn
 ||sinaapp.com
-||sinaimg.cn
-||sinajs.cn
 ||since1989.org
 ||sinoreagent.com
 ||sm.ms
@@ -691,7 +621,6 @@
 ||stargame.com
 ||steamcn.com
 ||suning.com
-||swapteam.cn
 ||sznews.com
 
 ! T
@@ -703,7 +632,6 @@
 ||taobao.com
 ||taobaocdn.com
 ||taylorfrancis.com
-||tbcdn.cn
 ||tecsir.com
 ||tencent.com
 ||tencentmind.com
@@ -711,13 +639,10 @@
 ||tenxcloud.com
 ||tgbus.com
 ||thape.com
-||thepaper.cn
 ||thinkpad.com
-||thinkphp.cn
 ||thomsonreuters.com
 ||tianhuagp.com
 ||tianxun.com
-||tianya.cn
 ||tianyancha.com
 ||tieba.com
 ||tietuku.com
@@ -726,12 +651,10 @@
 ||tmall.com
 ||tongfangpc.com
 ||tool.lu
-||totolink.cn
 ||toushibao.com
 ||toutiao.com
 ||toutiao.io
 ||tower.im
-||tplogin.cn
 ||truevue.org
 ||ttt.tt
 ||ttvnw.net
@@ -742,12 +665,10 @@
 
 ! U
 ||u9u9.com
-||ubuntu.org.cn
 ||uisdc.com
 ||umeng.com
 ||upaiyun.com
 ||upyun.com
-||ustc.edu.cn
 ||ustclug.org
 ||uuu.moe
 ||uxengine.net
@@ -766,10 +687,8 @@
 ||vpgcdn.com
 ||vpsmm.com
 ||vss.im
-||vuejs.org.cn
 
 ! W
-||w3school.com.cn
 ||waerfa.com
 ||wandoujia.com
 ||wanmei.com
@@ -779,13 +698,13 @@
 ||webofknowledge.com
 ||wegame.com
 ||weibo.com
+||weibocdn.com
 ||weidunewtab.com
 ||weiosx.com
 ||weiyun.com
 ||wht.im
 ||wiley.com
 ||wisenjoy.com
-||wiz.cn
 ||wodemo.com
 ||wolcavi.com
 ||wondercv.com
@@ -794,7 +713,6 @@
 ||wscdns.com
 
 ! X
-||xcar.com.cn
 ||xclient.info
 ||xf9168.com
 ||xiachufang.com
@@ -808,7 +726,6 @@
 ||xitu.io
 ||xiuren.com
 ||xldns.net
-||xs8.cn
 ||xuanfengge.com
 ||xuetangx.com
 ||xujc.com
@@ -830,26 +747,19 @@
 ||yinxiang.com
 ||ykimg.com
 ||ylmf.net
-||ynzs.cn
 ||youdao.com
 ||youku.com
-||youth.cn
 ||yunpian.com
 ||yunshipei.com
 ||yy.com
 
 ! Z
 ||zaih.com
-||zcool.com.cn
 ||zdfans.com
-||zfish.cn
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
-||zhaojin97.cn
-||zhaopin.cn
 ||zhaopin.com
-||zhibo.at
 ||zhihu.com
 ||zhiliangyuan.com
 ||zhimg.com
@@ -860,6 +770,4 @@
 ||zimuzu.io
 ||zmz001.com
 ||znyj365.com
-||zol.com.cn
-||zuk.cn
 ||zuozizhi.com
