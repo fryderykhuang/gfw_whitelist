@@ -72,6 +72,7 @@
 ||7k7k.com
 
 ! 8
+||800hr.com
 ||86ps.com
 
 ! 9
@@ -89,6 +90,7 @@
 ||aday01.com
 ||addthis.com
 ||adf.ly
+||admin5.com
 ||adobedtm.com
 ||aicheren.com
 ||aigame100.com
@@ -121,6 +123,7 @@
 ||arctime.org
 ||areyoucereal.com
 ||arubanetworks.com
+||aspetjournals.org
 ||atomicstryker.net
 ||augix.me
 
@@ -153,6 +156,7 @@
 ||bootcss.com
 ||bqtalk.com
 ||bt0.com
+||buildhr.com
 ||bumimi.com
 ||bybbs.org
 
@@ -181,6 +185,7 @@
 ||chinaz.com
 ||chiphell.com
 ||chuangzaoshi.com
+||chusan.com
 ||cibntv.net
 ||cli.im
 ||cloudinary.com
@@ -222,6 +227,7 @@
 ||deepin.com
 ||deepin.org
 ||dell.com
+||dellcdn.com
 ||dianping.com
 ||digdota.com
 ||dilidili.com
@@ -292,6 +298,7 @@
 ||gllue.com
 ||golaravel.com
 ||greenment.net
+||groundwater-china.com
 ||gtimg.com
 ||guiji365.com
 ||guokr.com
@@ -366,6 +373,7 @@
 ||it168.com
 ||iteye.com
 ||ithome.com
+||iwaponline.com
 
 ! J
 ||jandan.net
@@ -386,6 +394,7 @@
 ||jisuanke.com
 ||jobui.com
 ||jomodns.com
+||jove.com
 ||joyyang.com
 ||jstor.org
 ||juneyaoair.com
@@ -490,6 +499,7 @@
 ! O
 ||obsapp.com
 ||oekaki.so
+||offcn.com
 ||office.com
 ||officezhushou.com
 ||omico.me
@@ -510,6 +520,7 @@
 ||paipai.com
 ||panda.tv
 ||pangu.io
+||pansou.com
 ||pcbeta.com
 ||pcgeshi.com
 ||pdcicons.ml
@@ -541,6 +552,7 @@
 ||qihucdn.com
 ||qingmang.me
 ||qingting.fm
+||qingxihb.com
 ||qiniu.com
 ||qiniucdn.com
 ||qiyi.com
@@ -575,8 +587,9 @@
 ||sarm.net
 ||sb.sb
 ||scichina.com
-||sciencedirect.com
-||sciencedirectassets.com
+! 临时变动
+! ||sciencedirect.com
+! ||sciencedirectassets.com
 ||sciencemag.org
 ||scopus.com
 ||scorecardresearch.com
@@ -591,10 +604,14 @@
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
+||shuizhili.com
+||shxwcb.com
 ||sigmaaldrich.com
 ||sina.com
 ||sinaapp.com
 ||since1989.org
+||sinochem.com
+||sinochemintl.com
 ||sinoreagent.com
 ||sm.ms
 ||smart2pay.com
@@ -615,10 +632,12 @@
 ||soso.com
 ||soufun.com
 ||springairlines.com
-||springer.com
-||springerlink.com
+! 临时变动
+! ||springer.com
+! ||springerlink.com
 ||sspai.com
 ||stargame.com
+||stcn.com
 ||steamcn.com
 ||suning.com
 ||sznews.com
@@ -631,6 +650,9 @@
 ||tansoole.com
 ||taobao.com
 ||taobaocdn.com
+||tapimg.com
+||taptap.com
+||tautobiotech.com
 ||taylorfrancis.com
 ||tecsir.com
 ||tencent.com
@@ -647,6 +669,7 @@
 ||tieba.com
 ||tietuku.com
 ||tigerlust.com
+||time-weekly.com
 ||tingyun.com
 ||tmall.com
 ||tongfangpc.com
@@ -765,6 +788,7 @@
 ||zhimg.com
 ||zhiye.com
 ||zhiziyun.com
+||zhongkao.com
 ||zhugeio.com
 ||zhujike.com
 ||zimuzu.io
