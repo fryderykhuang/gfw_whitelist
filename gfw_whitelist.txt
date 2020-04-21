@@ -506,6 +506,7 @@
 ||oneplusbbs.com
 ||open-open.com
 ||openrepository.com
+||oppo.com  
 ||ops.moe
 ||optaim.com
 ||optimix.asia
@@ -565,6 +566,7 @@
 ||qunar.com
 
 ! R
+||renchuang.com
 ||renren.com
 ||researchgate.net
 ||rhhz.net
@@ -580,6 +582,7 @@
 ||ruanyifeng.com
 ||ruby-china.org
 ||runoob.com
+||rushb.net
 
 ! S
 ||sagepub.com
