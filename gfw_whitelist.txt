@@ -173,12 +173,14 @@
 ||cdog.me
 ||ceair.com
 ||cee.network
+||ceic.com
 ||ceping.com
 ||ch.com
 ||changba.com
 ||china.com
 ||chinanetcenter.com
 ||chinanews.com
+||chinarevit.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaxiv.org
@@ -199,6 +201,7 @@
 ||cnstock.com
 ||cnzz.com
 ||cnzz.net
+||co188.com
 ||coding.io
 ||coding.me
 ||coding.net
@@ -234,6 +237,7 @@
 ||dilidili.wang
 ||dingtalk.com
 ||diybeta.com
+||diyizby.com
 ||diyvm.com
 ||dm5.com
 ||dmzj.com
@@ -355,6 +359,7 @@
 ||ifdream.net
 ||ifeng.com
 ||ifengimg.com
+||iguopin.com
 ||iguxuan.com
 ||iknoworld.net
 ||im9.com
@@ -464,11 +469,13 @@
 ||mindstore.io
 ||mingdao.com
 ||miui.com
+||miwifi.com
 ||mmstat.com
 ||mmtrix.com
 ||moe.im
 ||moe123.net
 ||moetransit.com
+||mojidict.com
 ||mokeedev.com
 ||momentcdn.com
 ||msftconnecttest.com
@@ -603,6 +610,7 @@
 ||shanbay.com
 ||shanghaiwater.com
 ||sharepointonline.com
+||shenhua.cc
 ||shgjj.com
 ||shikezhi.com
 ||shimo.im
@@ -782,6 +790,7 @@
 ! Z
 ||zaih.com
 ||zdfans.com
+||zggqzp.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
