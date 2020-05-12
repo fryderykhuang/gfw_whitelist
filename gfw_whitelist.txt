@@ -130,6 +130,7 @@
 ! B
 ||baidu.com
 ||baiducontent.com
+||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
 ||baiyou100.com
@@ -178,6 +179,7 @@
 ||ch.com
 ||changba.com
 ||china.com
+||chinagwy.org
 ||chinanetcenter.com
 ||chinanews.com
 ||chinarevit.com
@@ -268,6 +270,7 @@
 ||elsevier.com
 ||elsevier.io
 ||enkj.com
+||eoffcn.com
 ||esensing.net
 ||etao.com
 ||eudic.net
@@ -423,6 +426,7 @@
 ||lackar.com
 ||lany.me
 ||lanyus.com
+||lanzous.com
 ||laravel-china.org
 ||lascn.net
 ||lbesec.com
@@ -721,6 +725,7 @@
 ||vpgcdn.com
 ||vpsmm.com
 ||vss.im
+||vzuu.com
 
 ! W
 ||waerfa.com
