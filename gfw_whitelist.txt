@@ -601,9 +601,8 @@
 ||sarm.net
 ||sb.sb
 ||scichina.com
-! 临时变动
-! ||sciencedirect.com
-! ||sciencedirectassets.com
+||sciencedirect.com
+||sciencedirectassets.com
 ||sciencemag.org
 ||scopus.com
 ||scorecardresearch.com
@@ -647,9 +646,8 @@
 ||soso.com
 ||soufun.com
 ||springairlines.com
-! 临时变动
-! ||springer.com
-! ||springerlink.com
+||springer.com
+||springerlink.com
 ||sspai.com
 ||stargame.com
 ||stcn.com
