@@ -47,6 +47,7 @@
 ||360buy.com
 ||360buyimg.com
 ||360doc.com
+||365dmp.com
 ||36kr.com
 ||3dmgame.com
 
@@ -451,6 +452,7 @@
 ||lyjsws.com
 
 ! M
+||magiconch.com
 ||mail4geek.com
 ||mairuan.com
 ||maoyan.com
