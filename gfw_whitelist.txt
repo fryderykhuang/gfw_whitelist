@@ -272,6 +272,7 @@
 ||elsevier.io
 ||enkj.com
 ||eoffcn.com
+||esenchina.com
 ||esensing.net
 ||etao.com
 ||eudic.net
@@ -334,6 +335,7 @@
 ||hostker.com
 ||hrol.org
 ||huaban.com
+||huanbb.com
 ||huanmusic.com
 ||huanqiu.com
 ||huawei.com
@@ -407,6 +409,7 @@
 ||joyyang.com
 ||jstor.org
 ||juneyaoair.com
+||jushi.com
 
 ! K
 ||kan300.com
@@ -596,9 +599,11 @@
 ||ruanyifeng.com
 ||ruby-china.org
 ||runoob.com
+||runtuchem.com
 ||rushb.net
 
 ! S
+||safbon.com
 ||sagepub.com
 ||sandai.net
 ||sarm.net
@@ -621,6 +626,7 @@
 ||shikezhi.com
 ||shimo.im
 ||shiyanlou.com
+||shtxcj.com
 ||shuizhili.com
 ||shxwcb.com
 ||sigmaaldrich.com
