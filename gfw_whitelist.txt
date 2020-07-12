@@ -12,6 +12,9 @@
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
 
+!others
+||__bridge_loaded__
+
 ! 0
 ||00cdn.com
 ||0o0.ooo
@@ -189,6 +192,7 @@
 ||chinaxiv.org
 ||chinaz.com
 ||chiphell.com
+||chuangkit.com
 ||chuangzaoshi.com
 ||chusan.com
 ||cibntv.net
@@ -707,6 +711,7 @@
 ||tuicool.com
 ||tuna.moe
 ||tuniu.com
+||tyeco.com
 
 ! U
 ||u9u9.com
