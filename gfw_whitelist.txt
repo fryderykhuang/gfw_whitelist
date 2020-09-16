@@ -295,6 +295,7 @@
 ||fengniao.com
 ||fir.im
 ||flexem.com
+||flexem.net
 ||fliggy.com
 ||flow.ci
 ||foodmate.net
